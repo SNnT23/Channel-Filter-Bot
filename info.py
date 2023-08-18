@@ -2,7 +2,7 @@ API_ID       = "16950780"
 API_HASH     = "b2cc1795a8537e3e848fa8d0cb1fd503"
 BOT_TOKEN    = "5312364349:AAFNwBLC6wGKhX6XpGpeSSeeeQJoj1NbDdc"
 SESSION      = "BQECpfwAP6OQBs4q5ov8iMgOlB3ptQC8gnG7fM9X9qvUJgnwASGyvC3Tb92lKzJDpg1SAMTKzNirNolIP8DJzBgTr5Mnqslqzig6PKXHMZaE32DNvXE1a8zMZzeWy-zoP098Yjrs_oBf5X8rDzfdNh2iR5BRpLmNZPHy0FI0RGPme31U6Kk6AwsISxgLenkz5SCxpIWlERHnVLJQLJ_Ggzgn-dbw5isgqs2_2lZ3TlLyfkUpNbYlsUg9266XaGreE5uYBGe298mZ3FKE8sdfq5e9q2lfv5SR-x0-P0AloYoTZlUWFozvf6cnSJY77FErPvgD8WZTyQqAUxu9JX_xbI2FKsVixAAAAABp7VTbAA"
-DATABASE_URI = "mongodb+srv://gclonee123:<password>@cluster0.xt3juw6.mongodb.net/?retryWrites=true&w=majority"
+DATABASE_URI = "mongodb+srv://gclonee123:123gclone@cluster0.xt3juw6.mongodb.net/?retryWrites=true&w=majority"
 LOG_CHANNEL  = -1001960004039
 ADMIN        = 16950780
 CHANNEL      = "@SNNT"
